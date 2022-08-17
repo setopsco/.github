@@ -9,10 +9,6 @@
 |
 <a href="https://www.setops.co" target="_blank">Website</a> 🌐
 |
-<a href="https://demo.setops.co" target="_blank">Demo</a> 🖥
-|
-<a href="https://www.setops.co/#private-beta" target="_blank">Join Beta</a> 🥳
-|
 <a href="https://docs.setops.co/latest/user/installation/" target="_blank">Download CLI</a> ⌨️
 |
 <a href="https://docs.setops.co/api" target="_blank">API Docs</a> 👉👈
@@ -33,7 +29,7 @@
     <img alt="Website" src="https://img.shields.io/website?down_color=ec1657&down_message=outage&label=API&style=flat-square&up_color=15d791&up_message=available&url=https%3A%2F%2Fapi.setops.co%2F.well-known%2Fhealth-check">
   </a>
   <a href="#">
-    <img alt="Uptime ratio (30 days)" src="https://img.shields.io/uptimerobot/ratio/m790581847-217d54646cffb7dc599150b0?label=uptime&color=15d791&">
+    <img alt="Uptime ratio (30 days)" src="https://img.shields.io/uptimerobot/ratio/m790581847-217d54646cffb7dc599150b0?label=uptime&color=15d791&style=flat-square">
   </a>
 </p>
 
